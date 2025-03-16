@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @MR-Aloner
-- 👀 I’m interested in  cyber security, hacking[malicious and safe]
-- 🌱 I’m currently learning jr pentensting 
-- 💞️ I’m looking to collaborate on hacking stuff 
+- 👋 Hi, THis is Ajay Viswa M (0xA_Br34ch3r)
+- 👀 I have experience in Vulnerability Management, Red teaming, Web application testing and Digital Forensics.
+- 🌱 I’m currently looking for a vulnerability Management or Red Teaming or cybersecurity Analyst job. 
+- 💞️ I’m looking to collaborate for any sort of security stuff to gain expertisice.
 - 📫 How to reach me https://0xa-br34ch3r.netlify.app/
 
 <!---
